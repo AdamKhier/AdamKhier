@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,arduino,aws,bash,blender,cpp,cloudflare,css,debian,discord,django,docker,flask,github,godot,html,js,kali,linux,lua,mint,notion,ps,php,powershell,pr,pycharm,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ae,arduino,aws,bash,blender,cpp,cloudflare,css,debian,discord,django,docker,flask,github,godot,html,js,kali,linux,lua,mint,notion,ps,php,powershell,pr,pycharm,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress&perline=8" />
   </a>
 </p>
