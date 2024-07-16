@@ -28,3 +28,5 @@
     <img src="https://skillicons.dev/icons?i=ae,arduino,aws,bash,blender,cpp,cloudflare,css,debian,discord,django,docker,flask,github,godot,html,js,kali,linux,lua,mint,notion,ps,php,powershell,pr,pycharm,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress&perline=7" />
   </a>
 </p>
+
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKhier&show_icons=true&theme=gruvbox)
