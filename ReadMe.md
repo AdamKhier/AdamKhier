@@ -1,1 +1,1 @@
-Yo If you are actually reading this read me file, YOU ARE A LEGEND!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdamKhier.AdamKhier" />
