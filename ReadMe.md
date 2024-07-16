@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdamKhier.AdamKhier)
 
+<div align="center" style="background: linear-gradient(to right, #ff0000, #0000ff); padding: 20px; border-radius: 10px;">
 <h1 align="Center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Adam+Khier!">
 </h1>
@@ -30,8 +31,3 @@
 </p>
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKhier&show_icons=true&bg_color=00000000)
-
-<!-- Gradient background -->
-<div style="text-align: center;">
-  <img src="[https://raw.githubusercontent.com/AdamKhier/AdamKhier/main/gradient-bg.svg](https://github.com/AdamKhier/AdamKhier/blob/main/gradient-bg.svg)" style="width: 100%;" alt="Gradient Background">
-</div>
