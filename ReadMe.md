@@ -30,3 +30,8 @@
 </p>
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKhier&show_icons=true&bg_color=00000000)
+
+<!-- Gradient background -->
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/AdamKhier/AdamKhier/main/gradient-bg.svg" style="width: 100%;" alt="Gradient Background">
+</div>
