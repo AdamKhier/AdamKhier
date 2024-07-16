@@ -10,9 +10,8 @@
 
 <div align="center">
  
-🔦 I’m currently working on **LiFi**
- 
-📘 I’m currently learning **Docker, Python and HTML**
+🔦 I’m currently working on **LiFi Tech**
+
 
  </div>
 
