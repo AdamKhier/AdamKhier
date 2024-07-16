@@ -21,3 +21,10 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,arduino,aws,bash,blender,cpp,cloudflare,css,debian,discord,django,docker,flask,github,godot,html,js,kali,linux,lua,mint,notion,ps,php,powershell,pr,pycharm,py,raspberrypi,robloxstudio,stackoverflow,ubuntu,unity,unreal,visualstudio,vscode,windows,wordpress" />
+  </a>
+</p>
