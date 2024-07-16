@@ -33,5 +33,5 @@
 
 <!-- Gradient background -->
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/AdamKhier/AdamKhier/main/gradient-bg.svg" style="width: 100%;" alt="Gradient Background">
+  <img src="[https://raw.githubusercontent.com/AdamKhier/AdamKhier/main/gradient-bg.svg](https://github.com/AdamKhier/AdamKhier/blob/main/gradient-bg.svg)" style="width: 100%;" alt="Gradient Background">
 </div>
