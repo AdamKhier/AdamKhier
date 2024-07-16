@@ -29,4 +29,4 @@
   </a>
 </p>
 
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKhier&show_icons=true&theme=gruvbox)
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKhier&show_icons=true&bg_color=00000000)
