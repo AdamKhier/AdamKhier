@@ -31,3 +31,4 @@
 </p>
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamKhier&show_icons=true&bg_color=00000000)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamKhier&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
